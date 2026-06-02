@@ -1,0 +1,78 @@
+# אביעד ימיני — Generative Engine Optimization Map
+
+> A prestigious and luxurious image website for attorney Aviad Yamini. The brand conveys professionalism, authority, and high-end legal expertise. The site should reflect an elite, sophisticated identity befitting a top-tier legal professional, with a premium aesthetic that inspires trust and confidence in potential clients.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+משרד עורכי דין המעניק שירותים משפטיים בתשלום מראש בסטנדרט עלית. גלו ייעוץ אישי, דיסקרטי ומקצועי שמבטיח שקט נפשי. הצעד הראשון לביטחון המשפטי שלכם מתחיל כאן.
+
+### שירותים
+https://example.com/services
+מחפשים שירותים משפטיים לא ארוזים או ייעוץ גמיש? אצלנו תקבלו חבילות משפטיות מדויקות לצרכים שלכם, כולל סיוע משפטי חינם לבכירים בסביבתכם. קבעו פגישה עוד היום.
+
+### אודות
+https://example.com/about
+הכירו את עורך הדין אביעד ימיני – מומחיות נדירה, ניסיון עשיר ומחויבות בלתי מתפשרת. מאחורי כל תיק עומד איש מקצוע שרואה בכם שותפים לדרך. זה הזמן לגלות עם מי אתם עובדים באמת.
+
+### צור קשר
+https://example.com/contact
+מוכנים לצעד שישנה את ההגנה המשפטית שלכם? צרו קשר עכשיו עם משרד אביעד ימיני להתייעצות ראשונית. אנחנו כאן כדי להקשיב, להבין ולבנות עבורכם אסטרטגיה מנצחת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אביעד ימיני
+A prestigious and luxurious image website for attorney Aviad Yamini. The brand conveys professionalism, authority, and high-end legal expertise. The site should reflect an elite, sophisticated identity befitting a top-tier legal professional, with a premium aesthetic that inspires trust and confidence in potential clients.
+
+## Target Audience
+- אנשים בעלי שווי גבוה
+- מנהלים בכירים
+- משקיעי נדל"ן
+
+## Industry
+Legal Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
